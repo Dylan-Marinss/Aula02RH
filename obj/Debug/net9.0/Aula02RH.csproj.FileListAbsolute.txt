@@ -1,0 +1,14 @@
+D:\Dylan2DS\DS-I(Desenvolvimento de sistema)\Aula02(06-08-2025)\Aula02RH\obj\Debug\net9.0\Aula02RH.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dylan2DS\DS-I(Desenvolvimento de sistema)\Aula02(06-08-2025)\Aula02RH\obj\Debug\net9.0\Aula02RH.AssemblyInfoInputs.cache
+D:\Dylan2DS\DS-I(Desenvolvimento de sistema)\Aula02(06-08-2025)\Aula02RH\obj\Debug\net9.0\Aula02RH.AssemblyInfo.cs
+D:\Dylan2DS\DS-I(Desenvolvimento de sistema)\Aula02(06-08-2025)\Aula02RH\obj\Debug\net9.0\Aula02RH.csproj.CoreCompileInputs.cache
+D:\Dylan2DS\DS-I(Desenvolvimento de sistema)\Aula02(06-08-2025)\Aula02RH\bin\Debug\net9.0\Aula02RH.exe
+D:\Dylan2DS\DS-I(Desenvolvimento de sistema)\Aula02(06-08-2025)\Aula02RH\bin\Debug\net9.0\Aula02RH.deps.json
+D:\Dylan2DS\DS-I(Desenvolvimento de sistema)\Aula02(06-08-2025)\Aula02RH\bin\Debug\net9.0\Aula02RH.runtimeconfig.json
+D:\Dylan2DS\DS-I(Desenvolvimento de sistema)\Aula02(06-08-2025)\Aula02RH\bin\Debug\net9.0\Aula02RH.dll
+D:\Dylan2DS\DS-I(Desenvolvimento de sistema)\Aula02(06-08-2025)\Aula02RH\bin\Debug\net9.0\Aula02RH.pdb
+D:\Dylan2DS\DS-I(Desenvolvimento de sistema)\Aula02(06-08-2025)\Aula02RH\obj\Debug\net9.0\Aula02RH.dll
+D:\Dylan2DS\DS-I(Desenvolvimento de sistema)\Aula02(06-08-2025)\Aula02RH\obj\Debug\net9.0\refint\Aula02RH.dll
+D:\Dylan2DS\DS-I(Desenvolvimento de sistema)\Aula02(06-08-2025)\Aula02RH\obj\Debug\net9.0\Aula02RH.pdb
+D:\Dylan2DS\DS-I(Desenvolvimento de sistema)\Aula02(06-08-2025)\Aula02RH\obj\Debug\net9.0\Aula02RH.genruntimeconfig.cache
+D:\Dylan2DS\DS-I(Desenvolvimento de sistema)\Aula02(06-08-2025)\Aula02RH\obj\Debug\net9.0\ref\Aula02RH.dll
