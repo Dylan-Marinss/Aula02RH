@@ -4,6 +4,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using Aula02RH.Models.Enuns;
 
+
 //Um comentario qualquer para deixar no git (amo minha ex)
 
 namespace Aula02RH.Models
@@ -33,6 +34,20 @@ namespace Aula02RH.Models
         {
             decimal desconto = this.Salario * percentual/100;
             return desconto;
+        }
+        
+        private int ContarCaracteres(string dado)
+        {
+            return dado.Length;
+        }
+
+        public bool ValidarCpf()
+        {
+            if(ContarCaracteres(Cpf) == 11)
+                return true;
+            else
+                return false;
+            
         }
     }
 }

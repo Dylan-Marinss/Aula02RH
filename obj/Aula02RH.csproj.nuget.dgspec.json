@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Dylan2DS\\DS-I(Desenvolvimento de sistema)\\Aula02(06-08-2025)\\Aula02RH\\Aula02RH.csproj": {}
+    "D:\\Dylan2DS\\DS-I(Desenvolvimento de sistema)\\Aula03(13-08-2025)\\Aula02RH.csproj\\Aula02RH.csproj": {}
   },
   "projects": {
-    "D:\\Dylan2DS\\DS-I(Desenvolvimento de sistema)\\Aula02(06-08-2025)\\Aula02RH\\Aula02RH.csproj": {
+    "D:\\Dylan2DS\\DS-I(Desenvolvimento de sistema)\\Aula03(13-08-2025)\\Aula02RH.csproj\\Aula02RH.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Dylan2DS\\DS-I(Desenvolvimento de sistema)\\Aula02(06-08-2025)\\Aula02RH\\Aula02RH.csproj",
+        "projectUniqueName": "D:\\Dylan2DS\\DS-I(Desenvolvimento de sistema)\\Aula03(13-08-2025)\\Aula02RH.csproj\\Aula02RH.csproj",
         "projectName": "Aula02RH",
-        "projectPath": "D:\\Dylan2DS\\DS-I(Desenvolvimento de sistema)\\Aula02(06-08-2025)\\Aula02RH\\Aula02RH.csproj",
+        "projectPath": "D:\\Dylan2DS\\DS-I(Desenvolvimento de sistema)\\Aula03(13-08-2025)\\Aula02RH.csproj\\Aula02RH.csproj",
         "packagesPath": "D:\\NugetPackages",
-        "outputPath": "D:\\Dylan2DS\\DS-I(Desenvolvimento de sistema)\\Aula02(06-08-2025)\\Aula02RH\\obj\\",
+        "outputPath": "D:\\Dylan2DS\\DS-I(Desenvolvimento de sistema)\\Aula03(13-08-2025)\\Aula02RH.csproj\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
